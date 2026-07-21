@@ -1,6 +1,4 @@
-[12:25 AM, 7/21/2026] Malik: 
-
-Python Syntax
+#Python Syntax
 
 What is Syntax?
 
